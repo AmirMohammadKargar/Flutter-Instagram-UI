@@ -1,0 +1,16 @@
+List<String> images = [
+  'assets/search_images/19.jpg',
+  'assets/search_images/20.jpg',
+  'assets/search_images/21.jpg',
+  'assets/search_images/22.jpg',
+  'assets/search_images/24.jpg',
+  'assets/search_images/30.jpg',
+  'assets/search_images/38.jpg',
+  'assets/search_images/42.jpg',
+  'assets/search_images/46.jpg',
+  'assets/search_images/47.jpg',
+  'assets/search_images/51.jpg',
+  'assets/search_images/47.jpg',
+  'assets/search_images/20.jpg',
+  'assets/search_images/42.jpg',
+];
